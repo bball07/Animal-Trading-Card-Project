@@ -29,8 +29,8 @@ img {
     transition: 0.3s;
     max-width: 600px;
     padding-bottom: 10px;
-    background-color: lawngreen;
-    border-style: dotted;
+    background-image: image(hearts)
+    border-style: ;
     border-bottom-color: orange;
     border-left-color: blue;
     border-top-color: orange;
